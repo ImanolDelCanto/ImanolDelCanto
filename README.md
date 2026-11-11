@@ -5,13 +5,16 @@
 ```
 About me
 -------------------------
-💻 I'm a computer science student, almost halfway through my degree. I'm self-studying new technologies to expand my knowledge.
-    I began studying Systems Engineering because it's a world where everything I imagine and think can become reality.
+💻 I'm a full stack developer in the final years of my degree in Information Systems (UNLa).
     I like to believe that in the field of technology, there are no limits to what can be achieved.
     I love working in teams and learning, as it helps me achieve my goals.
-    My goal is to become a Java software developer.
-🔭 I currently work freelance creating websites and systems to streamline processes.
-Outside of technology, I love to go fishing 🎣, camping ⛺, playing video games 🎮, or any activity related to getting outside and clearing my mind.
+    My goal is to keep growing as a developer, gaining experience in new teams and projects.
+🔭 I currently work at a financial services company, where I build the systems its teams use every day:
+    loan evaluation platforms, risk reports and a member and collections management system.
+🧩 A lot of what I do I learned along the way, by researching and testing.
+🔒 Most of my work is in private repositories, so my contributions say more than my public repos.
+Outside of technology, I love to go fishing 🎣, camping ⛺, playing video games 🎮,
+or any activity related to getting outside and clearing my mind.
 ```
 <hr>
 
